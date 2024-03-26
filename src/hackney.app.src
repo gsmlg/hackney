@@ -12,7 +12,6 @@
       asn1,
       public_key,
       ssl,
-      idna,
       mimerl,
       certifi,
       parse_trans,
